@@ -1,0 +1,21 @@
+.just {
+  width: 100px;
+  height: 160px;
+}
+.gallery {
+  width: 100%;
+  height: 850px;
+  background-image: url(https://cdn.wadiz.kr/ft/images/green002/2019/0405/20190405000316437_115.jpg/wadiz/format/jpg/quality/80/optimize);
+}
+.gallery2 {
+  width: 100%;
+  height: 850px;
+  background-image: url(https://cdn.wadiz.kr/ft/images/green002/2019/0405/20190405000316437_115.jpg/wadiz/format/jpg/quality/80/optimize);
+}
+.js4 {
+  width: 100%;
+  height: 250px;
+
+  background-color: #000000;
+  opacity: 0.5;
+}
