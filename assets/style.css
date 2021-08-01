@@ -1,0 +1,164 @@
+@font-face {
+    font-family: "Cafe24SsurroundAir";
+    src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24SsurroundAir.woff")
+        format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+.main{
+    width: 100%;
+ 
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.box1,
+.box3 {
+    width: 594px;
+    height: 700px;
+}
+.box1{
+    background-image: url(https://mblogthumb-phinf.pstatic.net/MjAyMDA0MjJfNzEg/MDAxNTg3NTM4NDM1MzIx.qTx04XPSAZaWl9yz7EOCH35jg3UnNiU7SABdwKI-uCsg.0s2WMvmfXejfvEVh9hM3m9I3qx5Y2lI4PKuhxBp8nw8g.JPEG.kimsunah5/KakaoTalk_20200422_105914472.jpg?type=w800);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+.js1{
+    width: 594px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center ;
+}
+.box2 {
+    width: 594px;
+    height: 200px;
+    font-family: "Cafe24SsurroundAir";
+    color: rgb(194, 153, 107);
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 50px;
+    font-weight: 700;
+}
+.tx_1,
+.tx {
+    font-family: "Cafe24SsurroundAir";
+    font-size: 30px;
+    color: rgb(172, 136, 94);
+}
+.box3{
+    background-image: url(https://i.pinimg.com/originals/52/ba/57/52ba5763dfd2c00e3eee1ac793a9fb62.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.main2{
+    width: 100%;
+    height: 600px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.box4,
+.box5,
+.box6 {
+    width: 594px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.js2{
+    width: 594px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center ;
+}
+.box4{
+    width: 594px;
+    height: 200px;
+    font-family: "Cafe24SsurroundAir";
+    color: rgb(194, 153, 107);
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 50px;
+    font-weight: 700;
+}
+.tx_2{
+    font-family: "Cafe24SsurroundAir";
+    font-size: 30px;
+    color: rgb(172, 136, 94);
+}
+.box5 {
+    background-image: url(https://i.pinimg.com/originals/d3/90/e8/d390e839af10513607b634c15408a21c.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.js3 {
+    width: 594px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center ;
+}
+
+.box6{
+    font-family: "Cafe24SsurroundAir";
+
+    width: 594px;
+    height: 200px;
+    
+    color: rgb(194, 153, 107);
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 50px;
+    font-weight: 700;
+}
+.tx_3{
+    font-family: "Cafe24SsurroundAir";
+    font-size: 30px;
+    color: rgb(172, 136, 94);
+}
+.bag{
+    width: 100%;
+    height: 1100px;
+    background-image: url(http://www.petmoa.net/img/editor/20200122/2020122172653.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer {
+    width: 100%;
+    height: 200px;
+    background-color: #000000;
+    opacity: 0.5;
+}
+.js4 {
+    width: 100%;
+    height: 250px;
+    
+    
+    background-color: #000000;
+    opacity: 0.5;
+  }
